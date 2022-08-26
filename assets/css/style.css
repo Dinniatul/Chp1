@@ -74,6 +74,9 @@ p.testimonial-name {
     text-align: center;
   }
 
+  p.mt-3 {
+    text-align: center;
+  }
   p.text-ws {
     text-align: center;
   }
@@ -133,7 +136,7 @@ p.testimonial-name {
   }
 
   ul.navbar-nav {
-    width: 90%;
+    width: 93%;
   }
 
   .col-6.text-center {
